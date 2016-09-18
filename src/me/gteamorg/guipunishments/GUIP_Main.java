@@ -9,7 +9,7 @@ public class GUIP_Main extends JavaPlugin {
 	
 	@Override
 	public void onEnable(){
-		getLogger().info("GGUIPunish is not enabled.");
+		getLogger().info("GGUIPunish is not enabled");
 	}
 	
 	@Override
