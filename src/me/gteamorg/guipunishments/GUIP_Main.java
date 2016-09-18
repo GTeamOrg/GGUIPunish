@@ -23,7 +23,7 @@ public class GUIP_Main extends JavaPlugin {
 			
 			Player player = (Player) sender;
 			
-			player.sendMessage("Hello, " + player.getName() + "!");
+			player.sendMessage("Rape me, " + player.getName() + "!");
 			
 			return true;
 			
