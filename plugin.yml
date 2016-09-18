@@ -1,0 +1,9 @@
+name: GGUI_Punish
+main: me.gteamorg.guipunishments.GUIP_Main
+authors: [XGreenPlayz12, heroguy42]
+version: 1.0
+description:  >
+              Plugin that opens a GUI in-game and it allows your staff to punish others.
+commands:
+  gpunigh:
+    description: Shows a list of commands for the plugin.
